@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/ExternalEEPROM.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/isr.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/main.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/timers.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/ds1307.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/ExternalEEPROM.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/main.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/ds1307.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/adc.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/uart.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/car_black_box.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/clcd.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/adc.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/i2c.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/uart.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/digital_keypad.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/car_black_box.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/clcd.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/digital_keypad.c</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/timers.h</file>
+            <file>file:/D:/ASWIIN/MC%20Project/Car_blackbox.X/i2c.h</file>
+        </group>
+    </open-files>
+</project-private>
